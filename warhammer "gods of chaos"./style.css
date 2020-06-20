@@ -1,0 +1,46 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+body {
+    width: 100%;
+    background: url("img/warhammer-40k-shvatka\.jpg");
+}
+.container {
+    display: flex;
+    Justify-content: center;
+    color: whitesmoke;
+    list-style-type: none;   
+    font-size: 30px; 
+}
+h1 {
+    padding-top: 30px;
+}
+img {
+    width: 300px;
+    height: 300px;
+}
+ul {
+    padding-top: 75px;
+}
+a {
+    text-decoration: none;
+}
+li {
+    display: flex;
+    Justify-content: center;
+    padding-top: 20px; 
+    font-size: 45px;
+}
+#color-1 {
+    color: red;
+}
+#color-2 {
+    color: indigo;
+}
+#color-3 {
+    color: green;
+}
+#color-4 {
+    color: palevioletred;
+}
